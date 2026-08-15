@@ -1,56 +1,56 @@
-# 📝 [Nome do Exercício Prático]
+# 💻 [Nome do Projeto]
 
-> Breve descrição do projeto. Ex: "Script em Python para calcular a média de notas escolares e determinar a situação do aluno (aprovado/reprovado)."
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
 
-## 🎯 Objetivo
+## 📌 Sobre o Projeto
+Este é um projeto desenvolvido em Python focado em treinar fundamentos de programação, como entrada e saída de dados (I/O), manipulação de variáveis, operadores matemáticos e controle de fluxo (estruturas condicionais). 
 
-Este repositório contém a resolução de um exercício prático desenvolvido para consolidar fundamentos de programação. O foco principal desta atividade foi praticar e internalizar os conceitos de **[Tema principal, ex: Estruturas Condicionais e Operadores Matemáticos]**.
+O objetivo do script é [descreva brevemente o que o programa faz, ex: receber o peso e a altura do usuário, realizar o cálculo do Índice de Massa Corporal (IMC) e retornar a classificação baseada nas métricas de saúde].
 
-## 🧠 Conceitos Aplicados
+## ⚙️ Funcionalidades
+- [x] Captura de dados do usuário via terminal.
+- [x] Validação e conversão de tipos de dados (strings para números).
+- [x] Cálculo automatizado.
+- [x] Exibição de resultados formatados com base em condições lógicas.
 
-Durante a construção deste código, os seguintes conceitos e ferramentas foram utilizados na prática:
+## 🛠️ Tecnologias Utilizadas
+- **Linguagem:** Python 3.x
+- **Ambiente:** Execução via Terminal/CLI
+- **Bibliotecas:** Nenhuma biblioteca externa necessária (apenas bibliotecas padrão).
 
-- [Conceito 1 - ex: Entrada e saída de dados (`input` e `print`)]
-- [Conceito 2 - ex: Tipagem e conversão de variáveis (`int`, `float`)]
-- [Conceito 3 - ex: Estruturas de decisão (`if`, `elif`, `else`)]
-- [Conceito 4 - ex: Formatação de strings (f-strings)]
-
-## 🚀 Como Executar
+## 🚀 Como Executar o Projeto
 
 ### Pré-requisitos
-Para rodar este código, você precisará ter o [Python 3.x](https://www.python.org/downloads/) instalado na sua máquina.
+Antes de começar, você precisará ter o [Python](https://www.python.org/downloads/) instalado na sua máquina.
 
-### Passo a Passo
-
-1. Clone este repositório para a sua máquina local:
-   ```bash
-   git clone [https://github.com/](https://github.com/)[SEU-USUARIO]/[nome-do-repositorio].git
-   ```
-
-2. Acesse a pasta do projeto:
-   ```bash
-   cd [nome-do-repositorio]
-   ```
-
-3. Execute o script via terminal:
-   ```bash
-   python [nome_do_arquivo].py
-   ```
-
-## 💻 Demonstração de Uso
-
-*Exemplo de interação do programa rodando no terminal:*
-
-```text
-======================================
-  [NOME DO PROGRAMA/CABEÇALHO]
-======================================
-Digite a primeira informação: 10
-Digite a segunda informação: 20
-
-Resultado do processamento: 30
-======================================
+### Passo a passo
+1. Clone este repositório para o seu computador:
+```bash
+git clone [https://github.com/devthiagolourenco/](https://github.com/devthiagolourenco/)[nome-do-repositorio].git
 ```
 
----
-*Este projeto faz parte do meu portfólio de estudos contínuos focado no desenvolvimento de software.*
+2. Navegue até a pasta do projeto:
+```bash
+cd [nome-do-repositorio]
+```
+
+3. Execute o script Python:
+```bash
+python [nome_do_arquivo].py
+```
+*(Dica: em alguns sistemas como Linux ou macOS, pode ser necessário usar o comando `python3`)*
+
+## 📁 Estrutura de Arquivos
+```text
+📦 [nome-do-repositorio]
+ ┣ 📜 [nome_do_arquivo].py   # Código-fonte principal da aplicação
+ ┣ 📜 .gitignore             # Arquivos ignorados pelo Git
+ ┗ 📜 README.md              # Documentação do projeto
+```
+
+## 👨‍💻 Autor
+
+Criado por **Thiago Lourenço**
+- LinkedIn: [Link para o seu LinkedIn]
+- GitHub: https://github.com/devthiagolourenco

@@ -1,0 +1,23 @@
+# Arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambientes virtuais (caso utilize no futuro)
+venv/
+.venv/
+env/
+.env/
+
+# Arquivos de configurações de editores de código (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Variáveis de ambiente locais
+.env
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
